@@ -6,7 +6,9 @@ A simple loading page with a spinning animation to indicate that content is bein
 
 ![Screenshot (38)](https://github.com/saurabhalagdeve/Loading-Page/assets/127332934/5a763056-0709-4ae2-8437-a9aede13a9d2)
 
+##Click Here
 
+[Click Here 👈👈👈](https://saurabhalagdeve.github.io/Loading-Page/)
 
 ## Table of Contents
 
